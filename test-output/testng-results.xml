@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Medhok Application Test Automation Test Suite" duration-ms="297416" started-at="2018-06-14T15:49:36Z" finished-at="2018-06-14T15:54:33Z">
+    <groups>
+    </groups>
+    <test name="Medhok App Test Cases" duration-ms="297416" started-at="2018-06-14T15:49:36Z" finished-at="2018-06-14T15:54:33Z">
+      <class name="medhok.testCases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:medhok.testCases.HomePageTest@239963d8]" name="setUp" is-config="true" duration-ms="101727" started-at="2018-06-14T21:19:36Z" finished-at="2018-06-14T21:21:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logoTest()[pri:1, instance:medhok.testCases.HomePageTest@239963d8]" name="logoTest" duration-ms="372" started-at="2018-06-14T21:21:17Z" finished-at="2018-06-14T21:21:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:medhok.testCases.HomePageTest@239963d8]" name="tearDown" is-config="true" duration-ms="5757" started-at="2018-06-14T21:21:18Z" finished-at="2018-06-14T21:21:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:medhok.testCases.HomePageTest@239963d8]" name="setUp" is-config="true" duration-ms="32557" started-at="2018-06-14T21:21:24Z" finished-at="2018-06-14T21:21:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="linkTest()[pri:2, instance:medhok.testCases.HomePageTest@239963d8]" name="linkTest" duration-ms="51" started-at="2018-06-14T21:21:56Z" finished-at="2018-06-14T21:21:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- linkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:medhok.testCases.HomePageTest@239963d8]" name="tearDown" is-config="true" duration-ms="1177" started-at="2018-06-14T21:21:56Z" finished-at="2018-06-14T21:21:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:medhok.testCases.HomePageTest@239963d8]" name="setUp" is-config="true" duration-ms="19532" started-at="2018-06-14T21:21:57Z" finished-at="2018-06-14T21:22:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="dropdownTest()[pri:3, instance:medhok.testCases.HomePageTest@239963d8]" name="dropdownTest" duration-ms="568" started-at="2018-06-14T21:22:17Z" finished-at="2018-06-14T21:22:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dropdownTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:medhok.testCases.HomePageTest@239963d8]" name="tearDown" is-config="true" duration-ms="1016" started-at="2018-06-14T21:22:17Z" finished-at="2018-06-14T21:22:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:medhok.testCases.HomePageTest@239963d8]" name="setUp" is-config="true" duration-ms="17080" started-at="2018-06-14T21:22:18Z" finished-at="2018-06-14T21:22:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="contactusTest()[pri:4, instance:medhok.testCases.HomePageTest@239963d8]" name="contactusTest" duration-ms="15751" started-at="2018-06-14T21:22:36Z" finished-at="2018-06-14T21:22:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactusTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:medhok.testCases.HomePageTest@239963d8]" name="tearDown" is-config="true" duration-ms="1271" started-at="2018-06-14T21:22:51Z" finished-at="2018-06-14T21:22:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:medhok.testCases.HomePageTest@239963d8]" name="setUp" is-config="true" duration-ms="15843" started-at="2018-06-14T21:22:53Z" finished-at="2018-06-14T21:23:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="managementteamMenuTest()[pri:5, instance:medhok.testCases.HomePageTest@239963d8]" name="managementteamMenuTest" duration-ms="2170" started-at="2018-06-14T21:23:08Z" finished-at="2018-06-14T21:23:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- managementteamMenuTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:medhok.testCases.HomePageTest@239963d8]" name="tearDown" is-config="true" duration-ms="1834" started-at="2018-06-14T21:23:11Z" finished-at="2018-06-14T21:23:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:medhok.testCases.HomePageTest@239963d8]" name="setUp" is-config="true" duration-ms="16360" started-at="2018-06-14T21:23:12Z" finished-at="2018-06-14T21:23:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="certificationsMenuTest()[pri:6, instance:medhok.testCases.HomePageTest@239963d8]" name="certificationsMenuTest" duration-ms="2977" started-at="2018-06-14T21:23:29Z" finished-at="2018-06-14T21:23:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- certificationsMenuTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:medhok.testCases.HomePageTest@239963d8]" name="tearDown" is-config="true" duration-ms="1026" started-at="2018-06-14T21:23:32Z" finished-at="2018-06-14T21:23:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:medhok.testCases.HomePageTest@239963d8]" name="setUp" is-config="true" duration-ms="16573" started-at="2018-06-14T21:23:33Z" finished-at="2018-06-14T21:23:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="cultureMenuTest()[pri:7, instance:medhok.testCases.HomePageTest@239963d8]" name="cultureMenuTest" duration-ms="2774" started-at="2018-06-14T21:23:49Z" finished-at="2018-06-14T21:23:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cultureMenuTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:medhok.testCases.HomePageTest@239963d8]" name="tearDown" is-config="true" duration-ms="978" started-at="2018-06-14T21:23:52Z" finished-at="2018-06-14T21:23:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:medhok.testCases.HomePageTest@239963d8]" name="setUp" is-config="true" duration-ms="15745" started-at="2018-06-14T21:23:53Z" finished-at="2018-06-14T21:24:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="careersMenuTest()[pri:8, instance:medhok.testCases.HomePageTest@239963d8]" name="careersMenuTest" duration-ms="3388" started-at="2018-06-14T21:24:09Z" finished-at="2018-06-14T21:24:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- careersMenuTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:medhok.testCases.HomePageTest@239963d8]" name="tearDown" is-config="true" duration-ms="844" started-at="2018-06-14T21:24:12Z" finished-at="2018-06-14T21:24:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:medhok.testCases.HomePageTest@239963d8]" name="setUp" is-config="true" duration-ms="14689" started-at="2018-06-14T21:24:13Z" finished-at="2018-06-14T21:24:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="serviceTermsMenuTest()[pri:9, instance:medhok.testCases.HomePageTest@239963d8]" name="serviceTermsMenuTest" duration-ms="3914" started-at="2018-06-14T21:24:28Z" finished-at="2018-06-14T21:24:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serviceTermsMenuTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:medhok.testCases.HomePageTest@239963d8]" name="tearDown" is-config="true" duration-ms="1327" started-at="2018-06-14T21:24:32Z" finished-at="2018-06-14T21:24:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- medhok.testCases.HomePageTest -->
+    </test> <!-- Medhok App Test Cases -->
+  </suite> <!-- Medhok Application Test Automation Test Suite -->
+</testng-results>

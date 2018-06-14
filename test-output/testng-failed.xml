@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Medhok Application Test Automation Test Suite]">
+  <listeners>
+    <listener class-name="medhok.extendReport.ExtentReporterNG"/>
+  </listeners>
+  <test name="Medhok App Test Cases(failed)">
+    <classes>
+      <class name="medhok.testCases.HomePageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="careersMenuTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- medhok.testCases.HomePageTest -->
+    </classes>
+  </test> <!-- Medhok App Test Cases(failed) -->
+</suite> <!-- Failed suite [Medhok Application Test Automation Test Suite] -->
